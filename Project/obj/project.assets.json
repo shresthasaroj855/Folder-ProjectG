@@ -11004,11 +11004,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Black Hammer\\Desktop\\AspnetIdentityRoleBasedTutorial\\Project\\Project.csproj",
+      "projectUniqueName": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\Project.csproj",
       "projectName": "Project",
-      "projectPath": "C:\\Users\\Black Hammer\\Desktop\\AspnetIdentityRoleBasedTutorial\\Project\\Project.csproj",
+      "projectPath": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\Project.csproj",
       "packagesPath": "C:\\Users\\Black Hammer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Black Hammer\\Desktop\\AspnetIdentityRoleBasedTutorial\\Project\\obj\\",
+      "outputPath": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Black Hammer\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,586 @@
-﻿@{
-    ViewData["Title"] = "Home Page";
-}
+﻿<link rel="stylesheet" href="~/css/sitees.css" />
+<link href="~/css/styles.css" rel="stylesheet" />
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Black</title>
+<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css">
+
+
+@using Project.Data;
+@using Microsoft.AspNetCore.Identity
+@inject SignInManager<ApplicationUser> SignInManager
+@inject UserManager<ApplicationUser> UserManager
+<div class="scrollToTop-btn">
+    <i class="fas fa-angle-up"></i>
 </div>
+
+<header>
+    <div class="logo">
+        <img src="/images/logos.png" width="125px" />
+    </div>
+    <div class="menu-btn"></div>
+    <div class="navigation">
+        <a href="#main">Home</a>
+        @if (User.Identity.IsAuthenticated)
+        {
+
+            <a asp-area="" asp-controller="Product" asp-action="GetAll">Products</a>
+
+        }
+        @if (User.IsInRole("Admin"))
+        {
+
+            <a asp-area="" asp-controller="Inventory" asp-action="GetAll">Inventory</a>
+
+        }
+        <a href="#skills">Skills</a>
+        <a href="#services">Services</a>
+        
+        <a href="#contact">Contact</a>
+
+
+
+
+
+
+        <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+            <ul class="navbar-nav flex-grow-1">
+            </ul>
+            <partial name="_LoginPartial" />
+
+        </div>
+    </div>
+
+
+</header>
+
+<section class="main" id="main">
+    <div class="content">
+
+
+
+        <div class="ccontent">
+            <h1>
+                Hello, I'm <span>
+                    Black Hammer
+                </span>
+            </h1>
+            <p>Emppwer yourself to make the changes you need to make</p>
+            <div class="animated-text">
+                <h3>Web Designer</h3>
+                <br>
+                <h3>Web Developer</h3>
+                <br>
+                <h3> Gamer</h3>
+            </div>
+            @if (SignInManager.IsSignedIn(User))
+            {
+
+            }
+            else
+            {
+                <a href="/Identity/Account/register" class="btn">🅹🅾🅸🅽 🆄🆂</a>
+            }
+            <div class="media-icon">
+                <a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a>
+                <a href="https://www.instagram.com/"><i class="fab fa-instagram"></i></a>
+                <a href="https://twitter.com/?lang=en"><i class="fab fa-twitter"></i></a>
+            </div>
+        </div>
+
+
+</section>
+
+<section class="about" id="about">
+    <div class="title reveal">
+        <h2 class="section-title">About Me</h2>
+    </div>
+    <div class="content">
+        <div class="column col-left reveal">
+            <div class="img-card">
+                <img src="image/img1.jpg" alt="">
+
+            </div>
+            <div class="about-info">
+            </div>
+        </div>
+
+        <div class="column col-right reveal">
+            <h2 class="content-title">Hey There! I'm Saroj</h2>
+            <p class="paragraph-text">
+                WE’VE SKILL IN
+                WIDE RANGE OF FITNESS AND OTHER BODY HEALTH FACILITY.
+            </p>
+        </div>
+    </div>
+</section>
+
+<div class="testimonial" id="">
+    <div class="small-container">
+        <h2 class="title">Choose <em>🅿🆁🅾🅶🆁🅰🅼</em></h2>
+
+
+        <div class="section-heading">
+            <img src="/image/line-dec.png" alt="waves">
+            <p>
+                No matter your fitness level or goal, GYM has a program to meet your needs. Join us on the path
+                to a healthier you!
+            </p>
+
+        </div>
+        <div class="row">
+            <div class="col">
+                <ul class="features-items">
+                    <li class="feature-item">
+                        <div class="left-icon">
+                            <img src="/image/features-first-icon.png" alt="First One">
+                        </div>
+                        <div class="right-content">
+                            <h4>Beginner's Fitness</h4>
+                            <p>
+                                Are you new to the gym scene? Our beginner's fitness program is designed to ease
+                                you into a regular workout routine. Our trainers will create a customized plan
+                                to help you build strength, stamina, and confidence.
+                            </p>
+                            <a href="#" class="text-button">Discover More</a>
+                        </div>
+                    </li>
+                    <li class="feature-item">
+                        <div class="left-icon">
+                            <img src="/image/features-first-icon.png" alt="second one">
+                        </div>
+                        <div class="right-content">
+                            <h4>Weight Loss Challenge</h4>
+                            <p>
+                                Embark on a transformative journey with our weight loss challenge. Combine
+                                effective workouts with nutrition guidance to achieve sustainable weight loss
+                                and improve your overall well-being.
+                            </p>
+                            <a href="#" class="text-button">Discover More</a>
+                        </div>
+                    </li>
+                    <li class="feature-item">
+                        <div class="left-icon">
+                            <img src="/image/features-first-icon.png" alt="third gym training">
+                        </div>
+                        <div class="right-content">
+                            <h4>Basic Muscle Course</h4>
+                            <p>
+                                For those looking to gain muscle mass and strength, our muscle-building program
+                                focuses on targeted exercises and nutrition plans tailored to your goals.
+                            </p>
+                            <a href="#" class="text-button">Discover More</a>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+            <div class="col">
+                <ul class="features-items">
+                    <li class="feature-item">
+                        <div class="left-icon">
+                            <img src="/image/features-first-icon.png" alt="fourth muscle">
+                        </div>
+                        <div class="right-content">
+                            <h4>Yoga Training</h4>
+                            <p>Stretch, strengthen, and find serenity through various yoga practices.</p>
+                            <a href="#" class="text-button">Discover More</a>
+                        </div>
+                    </li>
+                    <li class="feature-item">
+                        <div class="left-icon">
+                            <img src="/image/features-first-icon.png" alt="training fifth">
+                        </div>
+                        <div class="right-content">
+                            <h4>Yoga Training</h4>
+                            <p>Stretch, strengthen, and find serenity through various yoga practices.</p>
+                            <a href="#" class="text-button">Discover More</a>
+                        </div>
+                    </li>
+                    <li class="feature-item">
+                        <div class="left-icon">
+                            <img src="/image/features-first-icon.png" alt="gym training">
+                        </div>
+                        <div class="right-content">
+                            <h4>Membership Plans</h4>
+                            <p>
+                                Ready to take the first step towards a healthier you? Join Gym today and
+                                experience the difference. Your fitness journey starts here!
+                            </p>
+                            <a href="#" class="text-button">Discover More</a>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+
+<section class="skills" id="skills">
+    <div class="title reveal">
+        <h2 class="section-title">My Skills</h2>
+    </div>
+    <div class="content">
+        <div class="column col-left reveal">
+            <h2 class="content-title">My Skills and Experiences</h2>
+            <p>....</p>
+            <a href="#" class="btn">See More</a>
+        </div>
+
+        <div class="column col-right reveal">
+            <div class="bar">
+                <div class="info">
+                    <span>ASP.NET Core</span>
+                    <span>55%</span>
+                </div>
+                <div class="line ASP NET Core"></div>
+            </div>
+            <div class="bar">
+                <div class="info">
+                    <span>HTML</span>
+                    <span>95%</span>
+                </div>
+                <div class="line html"></div>
+            </div>
+            <div class="bar">
+                <div class="info">
+                    <span>CSS</span>
+                    <span>85%</span>
+                </div>
+                <div class="line css"></div>
+            </div>
+            <div class="bar">
+                <div class="info">
+                    <span>Javascript</span>
+                    <span>20%</span>
+                </div>
+                <div class="line javascript"></div>
+            </div>
+
+
+        </div>
+    </div>
+</section>
+
+
+<section class="services" id="service">
+
+    <h2 class="title">Expert <em>🆃🆁🅰🅸🅽🅴🆁🆂</em></h2>
+
+    <div class="section-heading">
+        <img src="/image/line-dec.png" alt="waves">
+        <p>
+            Training Studio is free CSS template for gyms and fitness centers. You are allowed to use this
+            layout for your business website.
+        </p>
+
+    </div>
+
+    <div class="content">
+        <div class="card reveal">
+            <div class="service-icon">
+                <img src="/image/first-trainer.jpg" alt="">
+            </div>
+            <div class="info">
+                <h4>Milan Bishankhe</h4>
+                <p>
+                    Bitters cliche tattooed 8-bit distillery mustache. Keytar succulents gluten-free
+                    vegan church-key pour-over seitan flannel.
+                </p>
+                <div class="media-icon">
+                    <a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a>
+                    <a href="https://www.instagram.com/"><i class="fab fa-instagram"></i></a>
+                    <a href="https://twitter.com/?lang=en"><i class="fab fa-twitter"></i></a>
+                </div>
+            </div>
+        </div>
+
+        <div class="card reveal">
+            <div class="service-icon">
+                <img src="/image/testimonial-4.jpg" alt="">
+            </div>
+            <div class="info">
+
+                <span>Muscle Trainer</span>
+
+                <h4>Saroj Shrestha</h4>
+                <p>
+                    Bitters cliche tattooed 8-bit distillery mustache. Keytar succulents gluten-free
+                    vegan church-key pour-over seitan flannel.
+                </p>
+                <div class="media-icon">
+                    <a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a>
+                    <a href="https://www.instagram.com/"><i class="fab fa-instagram"></i></a>
+                    <a href="https://twitter.com/?lang=en"><i class="fab fa-twitter"></i></a>
+                </div>
+            </div>
+        </div>
+        <div class="card reveal">
+            <div class="service-icon">
+                <img src="/image/testimonial-4.jpg" alt="">
+            </div>
+            <div class="info">
+
+                <span>Muscle Trainer</span>
+
+                <h4>Saroj Shrestha</h4>
+                <p>
+                    Bitters cliche tattooed 8-bit distillery mustache. Keytar succulents gluten-free
+                    vegan church-key pour-over seitan flannel.
+                </p>
+                <div class="media-icon">
+                    <a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a>
+                    <a href="https://www.instagram.com/"><i class="fab fa-instagram"></i></a>
+                    <a href="https://twitter.com/?lang=en"><i class="fab fa-twitter"></i></a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="workss" id="services">
+    <div class="title reveal">
+        <h2 class="title">SERVICES & <em>🅵🅰🅲🅸🅻🅸🆃🅸🅴🆂</em></h2>
+    </div>
+    <div class="content">
+        <div class="card reveal">
+            <div class="card-img">
+                <a href="https://www.healthline.com/health/steam-room-benefits">    <img src="/image/1.jpeg" alt=""></a>
+
+            </div>
+            <div class="down-content">
+                <span class="S">STEAM AND SAUNA</span>
+
+
+
+            </div>
+        </div>
+
+        <div class="card reveal">
+            <div class="card-img">
+                <a href="https://www.healthifyme.com/blog/the-ultimate-7-day-gym-diet-plan/"> <img src="/image/first-trainer5.jpg" alt=""> </a>>
+            </div>
+            <div class="down-content">
+                <span class="S">NUTRITIONIST</span>
+
+
+            </div>
+        </div>
+        <div class="card reveal">
+            <div class="card-img">
+                <a href="
+https://www.thepolitesociety.com/etiquette-tips-2/at-the-gym-locker-room-etiquette"> <img src="/image/8.jpg" alt=""></a>
+            </div>
+            <div class="down-content">
+                <span class="S">LOCKER ROOMS</span>
+
+
+            </div>
+        </div>
+
+        <div class="card reveal">
+            <div class="card-img">
+                <a href="https://www.glofox.com/blog/group-workout-classes/"> <img src="/image/3.webp" alt=""></a>
+            </div>
+            <div class="down-content">
+                <span class="S">
+                    GROUP FITNESS
+                </span>
+
+            </div>
+        </div>
+
+        <div class="card reveal">
+            <div class="card-img">
+                <a href="https://ptinstitute.co.uk/all-courses/level-2-certificate-in-fitness-instructing-feb-2021/lessons/unit-4-conducting-client-consultation-and-gym-inductions/topic/lo1-of-unit-4-understand-the-consultation-process-specific-to-gym-based-exercise-programme-planning-and-own-professional-role-boundaries/"><img src="/image/6.webp" alt=""></a>
+            </div>
+            <div class="down-content">
+                <span class="S">CONSULTATION</span>
+
+                ]
+            </div>
+        </div>
+
+        <div class="card reveal">
+            <div class="card-img">
+                <a href="https://lourdeshealthfitness.com/personal-training/"> <img src="/image/7.webp" alt=""></a>
+            </div>
+            <div class="down-content">
+                <span class="S">PERSONAL TRAINERS & FLOOR TRAINERS</span>
+
+
+            </div>
+        </div>
+
+        <div class="card reveal">
+            <div class="card-img">
+                <a href="https://vo2master.com/blog/training-zones/"><img src="/image/third-trainer.jpg" alt=""></a>
+            </div>
+            <div class="down-content">
+                <span class="S">STRENGTH TRAINING ZONE</span>
+
+
+            </div>
+        </div>
+
+
+
+    </div>
+</section>
+
+
+
+
+
+<!-----Membership------->
+<div class="Membership" id="abou">
+    <div class="small-container">
+        <h2 class="title">Membership</h2>
+        <div class="row">
+            <div class="col1">
+                <i class="fa fa-quote-left"></i>
+                <div class="ps-item">
+                    <h3>Class drop-in</h3>
+                    <div class="pi-price">
+                        <h2>$ 39.0</h2>
+                        <span>SINGLE CLASS</span>
+                    </div>
+                    <ul>
+                        <li>Free riding</li>
+                        <li>Unlimited equipments</li>
+                        <li>Personal trainer</li>
+                        <li>Weight losing classes</li>
+                        <li>Month to mouth</li>
+                        <li>No time restriction</li>
+                    </ul>
+
+                    <a href="Membership" class="primary-btn pricing-btn">Enroll now</a>
+                    <a href="#" class="thumb-icon"><i class="fa fa-picture-o"></i></a>
+                </div>
+            </div>
+            <div class="col1">
+                <i class="fa fa-quote-left"></i>
+                <div class="ps-item">
+                    <h3>12 Month unlimited</h3>
+                    <div class="pi-price">
+                        <h2>$ 99.0</h2>
+                        <span>SINGLE CLASS</span>
+                    </div>
+                    <ul>
+                        <li>Free riding</li>
+                        <li>Unlimited equipments</li>
+                        <li>Personal trainer</li>
+                        <li>Weight losing classes</li>
+                        <li>Month to mouth</li>
+                        <li>No time restriction</li>
+                    </ul>
+                    <a href="#" class="primary-btn pricing-btn">Enroll now</a>
+                    <a href="#" class="thumb-icon"><i class="fa fa-picture-o"></i></a>
+                </div>
+            </div>
+            <div class="col1">
+                <i class="fa fa-quote-left"></i>
+                <div class="ps-item">
+                    <h3>6 Month unlimited</h3>
+                    <div class="pi-price">
+                        <h2>$ 59.0</h2>
+                        <span>SINGLE CLASS</span>
+                    </div>
+                    <ul>
+                        <li>Free riding</li>
+                        <li>Unlimited equipments</li>
+                        <li>Personal trainer</li>
+                        <li>Weight losing classes</li>
+                        <li>Month to mouth</li>
+                        <li>No time restriction</li>
+                    </ul>
+                    <a href="#" class="primary-btn pricing-btn">Enroll now</a>
+                    <a href="#" class="thumb-icon"><i class="fa fa-picture-o"></i></a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+<section class="contact" id="contact">
+    <div class="title reveal">
+        <h2 class="section-title">Contact Me</h2>
+    </div>
+    <div class="content">
+        <div class="row">
+            <div class="card reveal">
+                <div class="contact-icon">
+                    <i class="fas fa-map-marker-alt"></i>
+                </div>
+                <div class="info">
+                    <h3>Address</h3>
+                    <span>Kathmandu,Kalanki</span>
+                </div>
+            </div>
+            <div class="card reveal">
+                <div class="contact-icon">
+                    <i class="fas fa-phone"></i>
+                </div>
+                <div class="info">
+                    <h3>Phone</h3>
+                    <span>9860474988</span>
+                </div>
+            </div>
+            <div class="card reveal">
+                <div class="contact-icon">
+                    <i class="fas fa-envelope"></i>
+                </div>
+                <div class="info">
+                    <h3>Email Address</h3>
+                    <span>saroj@usome.com</span>
+                </div>
+            </div>
+            <div class="card reveal">
+                <div class="contact-icon">
+                    <i class="fas fa-globe"></i>
+                </div>
+                <div class="info">
+                    <h3>Website</h3>
+                    <span>mywebsite.com</span>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="contact-form reveal">
+                <h3>Send Message</h3>
+                <div class="input-box">
+                    <input type="text" name="" value="" placeholder="Name">
+                </div>
+                <div class="input-box">
+                    <input type="text" name="" value="" placeholder="Email">
+                </div>
+                <div class="input-box">
+                    <textarea name="name" rows="8" cols="80" placeholder="Message"></textarea>
+                </div>
+                <div class="input-box">
+                    <input type="submit" class="send-btn" name="" value="Send">
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+<script src="script.js" charset="utf-8"></script>
+
+

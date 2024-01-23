@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cbp3ioJZk/MODq2oq+QEsqc9SO+MZBF+o0qSbXNEM9rN2ZaJhUs3ZDqFds+GUi8hFW+VOqCozGc7ScASaN7MLA==",
+  "dgSpecHash": "SkQCVy2jagRAuV2zVEZuMf6vaN2zOqZMWEUmWcTbP5WeT5WTciwDpWa021MJYubLW1kOmVvzU0W3ncx3zoq39Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Black Hammer\\Desktop\\AspnetIdentityRoleBasedTutorial\\Project\\Project.csproj",
+  "projectFilePath": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\Project.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Black Hammer\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Black Hammer\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
