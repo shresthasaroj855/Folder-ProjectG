@@ -1,12 +1,16 @@
 ﻿<link rel="stylesheet" href="~/css/sitees.css" />
 <link href="~/css/styles.css" rel="stylesheet" />
+   
 
 
+<link href="~/assets/css/style.css" rel="stylesheet" />
+<link href="~/assets/css/all.min.css" rel="stylesheet" />
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Black</title>
 <link rel="stylesheet" href="style.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css">
+    @model SendMailDto
 
 
 @using Project.Data;
@@ -24,6 +28,7 @@
     <div class="menu-btn"></div>
     <div class="navigation">
         <a href="#main">Home</a>
+        <a asp-area="" asp-controller="Home" asp-action="About">  About Us</a>
         @if (User.Identity.IsAuthenticated)
         {
 
@@ -33,27 +38,28 @@
         @if (User.IsInRole("Admin"))
         {
 
-            <a asp-area="" asp-controller="Inventory" asp-action="GetAll">Inventory</a>
+            <a asp-area="" asp-controller="Inventory" asp-action="GetAll">Price</a>
 
         }
-        <a href="#skills">Skills</a>
         <a href="#services">Services</a>
-        
-        <a href="#contact">Contact</a>
+        <a asp-area="" asp-controller="Home" asp-action="ContactUs">ContactUs</a>
+
+    
 
 
+     
 
 
-
-
-        <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
-            <ul class="navbar-nav flex-grow-1">
-            </ul>
-            <partial name="_LoginPartial" />
-
-        </div>
+     
     </div>
-
+       @if (SignInManager.IsSignedIn(User))
+        {
+ 
+                <form class="form-inline" asp-area="Identity" asp-page="/Account/Logout" asp-route-returnUrl="@Url.Action("Index", "Home", new { area = "" })">
+                    <button type="submit" class="nav-link btn btn-link text-dark">Logout</button>
+                </form>
+   
+        }
 
 </header>
 
@@ -94,29 +100,89 @@
 
 </section>
 
-<section class="about" id="about">
-    <div class="title reveal">
-        <h2 class="section-title">About Me</h2>
-    </div>
-    <div class="content">
-        <div class="column col-left reveal">
-            <div class="img-card">
-                <img src="image/img1.jpg" alt="">
-
-            </div>
-            <div class="about-info">
-            </div>
+<section class="bg-01">
+    <div class="wrapper d-flex">
+        <div class="left-side">
+            <h2>
+                32%
+                <span>Discount</span>
+            </h2>
+            <a>Pay Now</a>
         </div>
-
-        <div class="column col-right reveal">
-            <h2 class="content-title">Hey There! I'm Saroj</h2>
-            <p class="paragraph-text">
-                WE’VE SKILL IN
-                WIDE RANGE OF FITNESS AND OTHER BODY HEALTH FACILITY.
-            </p>
+        <div class="right-side d-flex">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-4 col-sm-6 col-xs-12">
+                        <div class="content">
+                            <h3>Beginnner</h3>
+                            <span>$20</span>
+                            <ul>
+                                <li>Free riding</li>
+                                <li>Unlimited equipments</li>
+                                <li>Personal trainer</li>
+                                <li>Weight losing classes</li>
+                                <li>Month to mouth</li>
+                                <li>No time restriction</li>
+                            </ul>
+                            <a>Read More<i class="fal fa-arrow-right"></i></a>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-6 col-xs-12">
+                        <div class="content">
+                            <h3>Advanced</h3>
+                            <span>$30</span>
+                            <ul>
+                                <li>Free riding</li>
+                                <li>Unlimited equipments</li>
+                                <li>Personal trainer</li>
+                                <li>Weight losing classes</li>
+                                <li>Month to mouth</li>
+                                <li>No time restriction</li>
+                            </ul>
+                            <a>Read More<i class="fal fa-arrow-right"></i></a>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-6 col-xs-12">
+                        <div class="content">
+                            <h3>Warrior</h3>
+                            <span>$40</span>
+                            <ul>
+                                <li>Free riding</li>
+                                <li>Unlimited equipments</li>
+                                <li>Personal trainer</li>
+                                <li>Weight losing classes</li>
+                                <li>Month to mouth</li>
+                                <li>No time restriction</li>
+                            </ul>
+                            <a>Read More<i class="fal fa-arrow-right"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 </section>
+    <!-- Section About start -->
+    <section class="section about">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-6">
+                    <img src="images/bg/bg-5.jpg" alt="" class="img-fluid rounded shadow w-100">
+                </div>
+
+                <div class="col-lg-6">
+                    <div class="pl-3 mt-5 mt-lg-0">
+                        <h2 class="mt-1 mb-3">We’ve skill in <br>wide <span class="text-color">range of fitness</span> and Other body health facility. </h2>
+
+                        <p class="mb-4">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis Theme natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam lorem ante, dapibus in.</p>
+
+                        <a href="#" class="btn btn-main">Learn More<i class="fa fa-angle-right ml-2"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Section About End -->
 
 <div class="testimonial" id="">
     <div class="small-container">
@@ -234,7 +300,7 @@
         <div class="column col-right reveal">
             <div class="bar">
                 <div class="info">
-                    <span>ASP.NET Core</span>
+                    <span>C#</span>
                     <span>55%</span>
                 </div>
                 <div class="line ASP NET Core"></div>
@@ -435,76 +501,86 @@ https://www.thepolitesociety.com/etiquette-tips-2/at-the-gym-locker-room-etiquet
 
 
 
+@if (User.IsInRole("Admin"))
+{
 
-<!-----Membership------->
-<div class="Membership" id="abou">
-    <div class="small-container">
-        <h2 class="title">Membership</h2>
-        <div class="row">
-            <div class="col1">
-                <i class="fa fa-quote-left"></i>
-                <div class="ps-item">
-                    <h3>Class drop-in</h3>
-                    <div class="pi-price">
-                        <h2>$ 39.0</h2>
-                        <span>SINGLE CLASS</span>
-                    </div>
-                    <ul>
-                        <li>Free riding</li>
-                        <li>Unlimited equipments</li>
-                        <li>Personal trainer</li>
-                        <li>Weight losing classes</li>
-                        <li>Month to mouth</li>
-                        <li>No time restriction</li>
-                    </ul>
 
-                    <a href="Membership" class="primary-btn pricing-btn">Enroll now</a>
-                    <a href="#" class="thumb-icon"><i class="fa fa-picture-o"></i></a>
-                </div>
-            </div>
-            <div class="col1">
-                <i class="fa fa-quote-left"></i>
-                <div class="ps-item">
-                    <h3>12 Month unlimited</h3>
-                    <div class="pi-price">
-                        <h2>$ 99.0</h2>
-                        <span>SINGLE CLASS</span>
+
+    <!-----Membership------->
+    <div class="Membership" id="abou">
+        <div class="small-container">
+            <h2 class="title">Membership</h2>
+            <div class="row">
+                <div class="col1">
+                    <i class="fa fa-quote-left"></i>
+                    <div class="ps-item">
+                        <h3>Class drop-in</h3>
+                        <div class="pi-price">
+                            <h2>$ 20.0</h2>
+                            <span>Bignner </span>
+                        </div>
+                        <ul>
+                            <li>Free riding</li>
+                            <li>Unlimited equipments</li>
+                            <li>Personal trainer</li>
+                            <li>Weight losing classes</li>
+                            <li>Month to mouth</li>
+                            <li>No time restriction</li>
+                        </ul>
+
+
+                        <a href="Membership" class="primary-btn pricing-btn">Enroll now</a>
+                        <a href="#" class="thumb-icon"><i class="fa fa-picture-o"></i></a>
+
+
+
                     </div>
-                    <ul>
-                        <li>Free riding</li>
-                        <li>Unlimited equipments</li>
-                        <li>Personal trainer</li>
-                        <li>Weight losing classes</li>
-                        <li>Month to mouth</li>
-                        <li>No time restriction</li>
-                    </ul>
-                    <a href="#" class="primary-btn pricing-btn">Enroll now</a>
-                    <a href="#" class="thumb-icon"><i class="fa fa-picture-o"></i></a>
                 </div>
-            </div>
-            <div class="col1">
-                <i class="fa fa-quote-left"></i>
-                <div class="ps-item">
-                    <h3>6 Month unlimited</h3>
-                    <div class="pi-price">
-                        <h2>$ 59.0</h2>
-                        <span>SINGLE CLASS</span>
+                <div class="col1">
+                    <i class="fa fa-quote-left"></i>
+                    <div class="ps-item">
+                        <h3>12 Month unlimited</h3>
+                        <div class="pi-price">
+                            <h2>$ 30</h2>
+                            <span>Advanced CLASS</span>
+                        </div>
+                        <ul>
+                            <li>Free riding</li>
+                            <li>Unlimited equipments</li>
+                            <li>Personal trainer</li>
+                            <li>Weight losing classes</li>
+                            <li>Month to mouth</li>
+                            <li>No time restriction</li>
+                        </ul>
+                        <a href="#" class="primary-btn pricing-btn">Enroll now</a>
+                        <a href="#" class="thumb-icon"><i class="fa fa-picture-o"></i></a>
                     </div>
-                    <ul>
-                        <li>Free riding</li>
-                        <li>Unlimited equipments</li>
-                        <li>Personal trainer</li>
-                        <li>Weight losing classes</li>
-                        <li>Month to mouth</li>
-                        <li>No time restriction</li>
-                    </ul>
-                    <a href="#" class="primary-btn pricing-btn">Enroll now</a>
-                    <a href="#" class="thumb-icon"><i class="fa fa-picture-o"></i></a>
+                </div>
+                <div class="col1">
+                    <i class="fa fa-quote-left"></i>
+                    <div class="ps-item">
+                        <h3>6 Month unlimited</h3>
+                        <div class="pi-price">
+                            <h2>$ 40</h2>
+                            <span>
+                                Warrior</span>
+                        </div>
+                        <ul>
+                            <li>Free riding</li>
+                            <li>Unlimited equipments</li>
+                            <li>Personal trainer</li>
+                            <li>Weight losing classes</li>
+                            <li>Month to mouth</li>
+                            <li>No time restriction</li>
+                        </ul>
+                        <a href="#" class="primary-btn pricing-btn">Enroll now</a>
+                        <a href="#" class="thumb-icon"><i class="fa fa-picture-o"></i></a>
+                    </div>
                 </div>
             </div>
         </div>
     </div>
-</div>
+}
 
 
 
@@ -514,72 +590,139 @@ https://www.thepolitesociety.com/etiquette-tips-2/at-the-gym-locker-room-etiquet
 
 
 
-
-
-<section class="contact" id="contact">
-    <div class="title reveal">
-        <h2 class="section-title">Contact Me</h2>
-    </div>
-    <div class="content">
+<section class="my-pla">
+    <div class="container">
         <div class="row">
-            <div class="card reveal">
-                <div class="contact-icon">
-                    <i class="fas fa-map-marker-alt"></i>
-                </div>
-                <div class="info">
-                    <h3>Address</h3>
-                    <span>Kathmandu,Kalanki</span>
-                </div>
-            </div>
-            <div class="card reveal">
-                <div class="contact-icon">
-                    <i class="fas fa-phone"></i>
-                </div>
-                <div class="info">
-                    <h3>Phone</h3>
-                    <span>9860474988</span>
-                </div>
-            </div>
-            <div class="card reveal">
-                <div class="contact-icon">
-                    <i class="fas fa-envelope"></i>
-                </div>
-                <div class="info">
-                    <h3>Email Address</h3>
-                    <span>saroj@usome.com</span>
-                </div>
-            </div>
-            <div class="card reveal">
-                <div class="contact-icon">
-                    <i class="fas fa-globe"></i>
-                </div>
-                <div class="info">
-                    <h3>Website</h3>
-                    <span>mywebsite.com</span>
-                </div>
-            </div>
-        </div>
+            <div class="col-12">
+    <div class="container">
         <div class="row">
-            <div class="contact-form reveal">
-                <h3>Send Message</h3>
-                <div class="input-box">
-                    <input type="text" name="" value="" placeholder="Name">
-                </div>
-                <div class="input-box">
-                    <input type="text" name="" value="" placeholder="Email">
-                </div>
-                <div class="input-box">
-                    <textarea name="name" rows="8" cols="80" placeholder="Message"></textarea>
-                </div>
-                <div class="input-box">
-                    <input type="submit" class="send-btn" name="" value="Send">
+            <div class="col-12">
+                <div class="_lo_we_ds">
+                    <div class="row">
+                        <div class="col-lg-4 col-md-4 col-sm-6 col-12">
+                            <div class="_ol_we_as">
+                                <ol>
+                                    <li>
+                                        <i class="far fa-location"></i>
+                                        <h3>Location</h3>Marthandam
+                                    </li>
+                                </ol>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-md-4 col-sm-6 col-12">
+                            <div class="_ol_we_as">
+                                <ol>
+                                    <li>
+                                        <i class="far fa-envelope"></i>
+                                        <h3>Email</h3>sales@smarteyeapps.com
+                                    </li>
+                                </ol>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-md-4 col-sm-6 col-12">
+                            <div class="_ol_we_as">
+                                <ol>
+                                    <li>
+                                        <i class="fas fa-mobile-alt"></i>
+                                        <h3>Phone</h3>+91 9751791203
+                                    </li>
+                                </ol>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
     </div>
+
+                <div class="heading">
+                    <h2>Get In Touch</h2>
+                    <p>
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                        tempor incididunt
+                    </p>
+                </div>
+            </div>
+        </div>
+
+       
+        </div>
+
 </section>
 
+<footer>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-3 col-md-3 col-sm-6 col-6">
+                <div class="footer-content">
+                    <img src="/images/logos.png" width="125px" />
+                    <p>
+                        ----------------------------------------------
+                    </p>
+                    <ul>
+                        <li><i class="fab fa-facebook-f"></i></li>
+                        <li><i class="fab fa-twitter"></i></li>
+                        <li><i class="fab fa-google"></i></li>
+                        <li><i class="fab fa-skype"></i></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-3 col-sm-6 col-6">
+                <div class="footer-content">
+                    <h2>Quick Links</h2>
+                    <ol>
+                        <li><a href="#"><i class="fal fa-angle-double-right"></i>Home</a></li>
+                        <li><a href="#"><i class="fal fa-angle-double-right"></i>About Us</a></li>
+                        <li><a href="#"><i class="fal fa-angle-double-right"></i>Services</a></li>
+                        <li><a href="#"><i class="fal fa-angle-double-right"></i>Blog</a></li>
+                        <li><a href="#"><i class="fal fa-angle-double-right"></i>Contact Us</a></li>
+                    </ol>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-3 col-sm-6 col-6">
+                <div class="footer-content">
+                    <h2>Classes</h2>
+                    <ol>
+                        <li><a href="#"><i class="fal fa-angle-double-right"></i>Home</a></li>
+                        <li><a href="#"><i class="fal fa-angle-double-right"></i>About Us</a></li>
+                        <li><a href="#"><i class="fal fa-angle-double-right"></i>Services</a></li>
+                        <li><a href="#"><i class="fal fa-angle-double-right"></i>Blog</a></li>
+                        <li><a href="#"><i class="fal fa-angle-double-right"></i>Contact Us</a></li>
+                    </ol>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-3 col-sm-6 col-6">
+                <div class="footer-content">
+                    <h2>News Letters</h2>
+                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit.</p>
+                    <div class="form-group">
 
+                        <a asp-area="" asp-controller="Home" asp-action="ContactUs">
+                            Get In Touch
+                            <i class="fal fa-paper-plane"></i>
+                        </a>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="copy-right">
+        <div class="container">
+            <div class="copy-right-card">
+                <p>Helo World</p>
+            </div>
+        </div>
+    </div>
+</footer>
+<!-- =================Body End==================== -->
+
+<script src="assets/js/jquery-3.2.1.min.js"></script>
+<script src="assets/js/popper.min.js"></script>
+<script src="assets/js/bootstrap.min.js"></script>
+<script src="assets/js/script.js"></script>
 
 <script src="script.js" charset="utf-8"></script>
 

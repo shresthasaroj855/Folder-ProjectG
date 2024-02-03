@@ -1,1163 +1,1763 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Project.bundle.scp.css",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Project.bundle.scp.css",
       "PackagePath": "staticwebassets\\Project.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\assets\\css\\style.css",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\assets\\config-scss.bat",
+      "PackagePath": "staticwebassets\\assets\\config-scss.bat"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\assets\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\assets\\css\\animate.css",
+      "PackagePath": "staticwebassets\\assets\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\assets\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\assets\\css\\fontawsom-all.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\fontawsom-all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\assets\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\assets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\assets\\css\\style.css",
       "PackagePath": "staticwebassets\\assets\\css\\style.css"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\assets\\scss\\Readme.txt",
-      "PackagePath": "staticwebassets\\assets\\scss\\Readme.txt"
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\assets\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css.map"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.css",
-      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.css"
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\assets\\fonts\\PTSerif-Bold.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\PTSerif-Bold.ttf"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.json",
-      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.json"
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\assets\\fonts\\PTSerif-Regular.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\PTSerif-Regular.ttf"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.min.css",
-      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.min.css"
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\assets\\images\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\1.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.scss",
-      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.scss"
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\assets\\images\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\2.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
-      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff"
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\assets\\images\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\3.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
-      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2"
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\assets\\images\\abt-01.png",
+      "PackagePath": "staticwebassets\\assets\\images\\abt-01.png"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css",
-      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\assets\\images\\background\\m-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\background\\m-01.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
-      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\assets\\images\\background\\se-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\background\\se-01.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
-      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\assets\\images\\background\\se-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\background\\se-02.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
-      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\assets\\images\\blog\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\1.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css",
-      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css"
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\assets\\images\\blog\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\2.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
-      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\assets\\images\\blog\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\3.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
-      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\assets\\images\\blog\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\4.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\assets\\images\\blog\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\5.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
-      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\assets\\images\\blog\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\6.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
-      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\assets\\images\\class\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\class\\1.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
-      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\assets\\images\\class\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\class\\2.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
-      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\assets\\images\\class\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\class\\3.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css",
-      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css"
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\assets\\images\\class\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\class\\4.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
-      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\assets\\images\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo.png"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
-      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\assets\\images\\team\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\team\\1.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\assets\\images\\team\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\team\\2.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css",
-      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css"
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\assets\\images\\team\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\team\\3.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map",
-      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map"
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css",
-      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css"
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\assets\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map",
-      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map"
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\assets\\js\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-3.2.1.min.js"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css",
-      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css"
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\assets\\js\\popper.js",
+      "PackagePath": "staticwebassets\\assets\\js\\popper.js"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
-      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\assets\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\popper.min.js"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
-      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\assets\\js\\popper.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\js\\popper.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\assets\\js\\script.js",
+      "PackagePath": "staticwebassets\\assets\\js\\script.js"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.css",
-      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.css"
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\assets\\scss\\_variable.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_variable.scss"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.css.map",
-      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.css.map"
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\assets\\scss\\base\\basic_setup.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\base\\basic_setup.scss"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css",
-      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css"
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\assets\\scss\\component\\footer.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\component\\footer.scss"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
-      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\assets\\scss\\component\\home\\header.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\component\\home\\header.scss"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css",
-      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css"
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\assets\\scss\\component\\home\\section.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\component\\home\\section.scss"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map",
-      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map"
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\assets\\scss\\component\\home\\slider.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\component\\home\\slider.scss"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css",
-      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css"
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\assets\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\style.scss"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map"
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\assets\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.eot"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
-      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js"
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\assets\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.svg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map",
-      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map"
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\assets\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.ttf"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
-      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\assets\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.woff"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
-      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\assets\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.woff2"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js",
-      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js"
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\assets\\webfonts\\fa-light-300.eot",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-light-300.eot"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js.map",
-      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js.map"
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\assets\\webfonts\\fa-light-300.svg",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-light-300.svg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js",
-      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js"
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\assets\\webfonts\\fa-light-300.ttf",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-light-300.ttf"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map",
-      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map"
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\assets\\webfonts\\fa-light-300.woff",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-light-300.woff"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.js",
-      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.js"
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\assets\\webfonts\\fa-light-300.woff2",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-light-300.woff2"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.js.map",
-      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.js.map"
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\assets\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.eot"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js",
-      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js"
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\assets\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.svg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js.map",
-      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js.map"
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\assets\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.ttf"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\assets\\vendor\\glightbox\\css\\glightbox.css",
-      "PackagePath": "staticwebassets\\assets\\vendor\\glightbox\\css\\glightbox.css"
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\assets\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.woff"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\assets\\vendor\\glightbox\\css\\glightbox.min.css",
-      "PackagePath": "staticwebassets\\assets\\vendor\\glightbox\\css\\glightbox.min.css"
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\assets\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.woff2"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\assets\\vendor\\glightbox\\css\\plyr.css",
-      "PackagePath": "staticwebassets\\assets\\vendor\\glightbox\\css\\plyr.css"
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\assets\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.eot"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\assets\\vendor\\glightbox\\css\\plyr.min.css",
-      "PackagePath": "staticwebassets\\assets\\vendor\\glightbox\\css\\plyr.min.css"
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\assets\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.svg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\assets\\vendor\\glightbox\\js\\glightbox.js",
-      "PackagePath": "staticwebassets\\assets\\vendor\\glightbox\\js\\glightbox.js"
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\assets\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.ttf"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\assets\\vendor\\glightbox\\js\\glightbox.min.js",
-      "PackagePath": "staticwebassets\\assets\\vendor\\glightbox\\js\\glightbox.min.js"
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\assets\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.woff"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\assets\\vendor\\php-email-form\\validate.js",
-      "PackagePath": "staticwebassets\\assets\\vendor\\php-email-form\\validate.js"
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\assets\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.woff2"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\assets\\vendor\\purecounter\\purecounter_vanilla.js",
-      "PackagePath": "staticwebassets\\assets\\vendor\\purecounter\\purecounter_vanilla.js"
-    },
-    {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\assets\\vendor\\purecounter\\purecounter_vanilla.js.map",
-      "PackagePath": "staticwebassets\\assets\\vendor\\purecounter\\purecounter_vanilla.js.map"
-    },
-    {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\assets\\vendor\\swiper\\swiper-bundle.min.css",
-      "PackagePath": "staticwebassets\\assets\\vendor\\swiper\\swiper-bundle.min.css"
-    },
-    {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\assets\\vendor\\swiper\\swiper-bundle.min.js",
-      "PackagePath": "staticwebassets\\assets\\vendor\\swiper\\swiper-bundle.min.js"
-    },
-    {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\assets\\vendor\\swiper\\swiper-bundle.min.js.map",
-      "PackagePath": "staticwebassets\\assets\\vendor\\swiper\\swiper-bundle.min.js.map"
-    },
-    {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\assets\\vendor\\typed.js\\typed.cjs",
-      "PackagePath": "staticwebassets\\assets\\vendor\\typed.js\\typed.cjs"
-    },
-    {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\assets\\vendor\\typed.js\\typed.cjs.map",
-      "PackagePath": "staticwebassets\\assets\\vendor\\typed.js\\typed.cjs.map"
-    },
-    {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\assets\\vendor\\typed.js\\typed.module.js",
-      "PackagePath": "staticwebassets\\assets\\vendor\\typed.js\\typed.module.js"
-    },
-    {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\assets\\vendor\\typed.js\\typed.module.js.map",
-      "PackagePath": "staticwebassets\\assets\\vendor\\typed.js\\typed.module.js.map"
-    },
-    {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\assets\\vendor\\typed.js\\typed.umd.js",
-      "PackagePath": "staticwebassets\\assets\\vendor\\typed.js\\typed.umd.js"
-    },
-    {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\assets\\vendor\\typed.js\\typed.umd.js.map",
-      "PackagePath": "staticwebassets\\assets\\vendor\\typed.js\\typed.umd.js.map"
-    },
-    {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\css\\About.css",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\css\\About.css",
       "PackagePath": "staticwebassets\\css\\About.css"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\css\\B.jpg",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\css\\B.jpg",
       "PackagePath": "staticwebassets\\css\\B.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\css\\bg-masthead.jpg",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\css\\bg-masthead.jpg",
       "PackagePath": "staticwebassets\\css\\bg-masthead.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\css\\booth.css",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\css\\booth.css",
       "PackagePath": "staticwebassets\\css\\booth.css"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\css\\mem.css",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\css\\mem.css",
       "PackagePath": "staticwebassets\\css\\mem.css"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\css\\menu1.png",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\css\\menu1.png",
       "PackagePath": "staticwebassets\\css\\menu1.png"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\css\\service.css",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\css\\service.css",
       "PackagePath": "staticwebassets\\css\\service.css"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\css\\sitees.css",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\css\\sitees.css",
       "PackagePath": "staticwebassets\\css\\sitees.css"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\css\\styleee.css",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\css\\styleee.css",
       "PackagePath": "staticwebassets\\css\\styleee.css"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\css\\styles.css",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\css\\styles.css",
       "PackagePath": "staticwebassets\\css\\styles.css"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\css\\yoga.jpg",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\css\\yoga.jpg",
       "PackagePath": "staticwebassets\\css\\yoga.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\image\\1.jpeg",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\image\\1.jpeg",
       "PackagePath": "staticwebassets\\image\\1.jpeg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\image\\2.jpeg",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\image\\2.jpeg",
       "PackagePath": "staticwebassets\\image\\2.jpeg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\image\\3.webp",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\image\\3.webp",
       "PackagePath": "staticwebassets\\image\\3.webp"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\image\\4.webp",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\image\\4.webp",
       "PackagePath": "staticwebassets\\image\\4.webp"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\image\\51.webp",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\image\\51.webp",
       "PackagePath": "staticwebassets\\image\\51.webp"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\image\\6.webp",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\image\\6.webp",
       "PackagePath": "staticwebassets\\image\\6.webp"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\image\\7.webp",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\image\\7.webp",
       "PackagePath": "staticwebassets\\image\\7.webp"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\image\\8.jpg",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\image\\8.jpg",
       "PackagePath": "staticwebassets\\image\\8.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\image\\E-commerce-master.zip",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\image\\E-commerce-master.zip",
       "PackagePath": "staticwebassets\\image\\E-commerce-master.zip"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\image\\bg-masthead.jpg",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\image\\bg-masthead.jpg",
       "PackagePath": "staticwebassets\\image\\bg-masthead.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\image\\bg.jpg",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\image\\bg.jpg",
       "PackagePath": "staticwebassets\\image\\bg.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\image\\category-1.webp",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\image\\category-1.webp",
       "PackagePath": "staticwebassets\\image\\category-1.webp"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\image\\close.png",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\image\\close.png",
       "PackagePath": "staticwebassets\\image\\close.png"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\image\\counters-bg.jpg",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\image\\counters-bg.jpg",
       "PackagePath": "staticwebassets\\image\\counters-bg.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\image\\features-first-icon.png",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\image\\features-first-icon.png",
       "PackagePath": "staticwebassets\\image\\features-first-icon.png"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\image\\first-trainer.jpg",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\image\\first-trainer.jpg",
       "PackagePath": "staticwebassets\\image\\first-trainer.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\image\\first-trainer1.jpg",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\image\\first-trainer1.jpg",
       "PackagePath": "staticwebassets\\image\\first-trainer1.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\image\\first-trainer2.jpg",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\image\\first-trainer2.jpg",
       "PackagePath": "staticwebassets\\image\\first-trainer2.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\image\\first-trainer4.jpg",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\image\\first-trainer4.jpg",
       "PackagePath": "staticwebassets\\image\\first-trainer4.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\image\\first-trainer5.jpg",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\image\\first-trainer5.jpg",
       "PackagePath": "staticwebassets\\image\\first-trainer5.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\image\\first-trainer6.jpg",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\image\\first-trainer6.jpg",
       "PackagePath": "staticwebassets\\image\\first-trainer6.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\image\\first-trainer7.jpg",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\image\\first-trainer7.jpg",
       "PackagePath": "staticwebassets\\image\\first-trainer7.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\image\\img1.jpg",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\image\\img1.jpg",
       "PackagePath": "staticwebassets\\image\\img1.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\image\\line-dec.png",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\image\\line-dec.png",
       "PackagePath": "staticwebassets\\image\\line-dec.png"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\image\\menu.png",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\image\\menu.png",
       "PackagePath": "staticwebassets\\image\\menu.png"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\image\\overlay-bg.jpg",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\image\\overlay-bg.jpg",
       "PackagePath": "staticwebassets\\image\\overlay-bg.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\image\\overlayy.jpg",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\image\\overlayy.jpg",
       "PackagePath": "staticwebassets\\image\\overlayy.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\image\\portfolio-details-1.jpg",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\image\\portfolio-details-1.jpg",
       "PackagePath": "staticwebassets\\image\\portfolio-details-1.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\image\\portfolio-details-2.jpg",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\image\\portfolio-details-2.jpg",
       "PackagePath": "staticwebassets\\image\\portfolio-details-2.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\image\\portfolio-details-3.jpg",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\image\\portfolio-details-3.jpg",
       "PackagePath": "staticwebassets\\image\\portfolio-details-3.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\image\\post-1.jpg",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\image\\post-1.jpg",
       "PackagePath": "staticwebassets\\image\\post-1.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\image\\post-2.jpg",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\image\\post-2.jpg",
       "PackagePath": "staticwebassets\\image\\post-2.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\image\\post-3.jpg",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\image\\post-3.jpg",
       "PackagePath": "staticwebassets\\image\\post-3.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\image\\testimonial-4.jpg",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\image\\testimonial-4.jpg",
       "PackagePath": "staticwebassets\\image\\testimonial-4.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\image\\third-trainer.jpg",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\image\\third-trainer.jpg",
       "PackagePath": "staticwebassets\\image\\third-trainer.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\image\\work-1.png",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\image\\work-1.png",
       "PackagePath": "staticwebassets\\image\\work-1.png"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\image\\work-2.jpg",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\image\\work-2.jpg",
       "PackagePath": "staticwebassets\\image\\work-2.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\image\\work-3.jpg",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\image\\work-3.jpg",
       "PackagePath": "staticwebassets\\image\\work-3.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\image\\work-4.jpg",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\image\\work-4.jpg",
       "PackagePath": "staticwebassets\\image\\work-4.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\image\\work-5.jpg",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\image\\work-5.jpg",
       "PackagePath": "staticwebassets\\image\\work-5.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\image\\work-6.jpg",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\image\\work-6.jpg",
       "PackagePath": "staticwebassets\\image\\work-6.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\image\\work1.jpg",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\image\\work1.jpg",
       "PackagePath": "staticwebassets\\image\\work1.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\image\\work2.jpg",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\image\\work2.jpg",
       "PackagePath": "staticwebassets\\image\\work2.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\image\\work3.jpg",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\image\\work3.jpg",
       "PackagePath": "staticwebassets\\image\\work3.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\image\\work4.jpg",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\image\\work4.jpg",
       "PackagePath": "staticwebassets\\image\\work4.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\image\\work5.jpg",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\image\\work5.jpg",
       "PackagePath": "staticwebassets\\image\\work5.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\image\\work6.jpg",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\image\\work6.jpg",
       "PackagePath": "staticwebassets\\image\\work6.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\1.jpg",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\1.jpg",
       "PackagePath": "staticwebassets\\images\\1.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\2.jpg",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\2.jpg",
       "PackagePath": "staticwebassets\\images\\2.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\22000.png",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\22000.png",
       "PackagePath": "staticwebassets\\images\\22000.png"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\24+hours.jpg",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\24+hours.jpg",
       "PackagePath": "staticwebassets\\images\\24+hours.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\3.jpg",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\3.jpg",
       "PackagePath": "staticwebassets\\images\\3.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\4.jpg",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\4.jpg",
       "PackagePath": "staticwebassets\\images\\4.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\5.jpg",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\5.jpg",
       "PackagePath": "staticwebassets\\images\\5.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\A.jpg",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\A.jpg",
       "PackagePath": "staticwebassets\\images\\A.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\BODY.jpg",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\BODY.jpg",
       "PackagePath": "staticwebassets\\images\\BODY.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\BOXING.webp",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\BOXING.webp",
       "PackagePath": "staticwebassets\\images\\BOXING.webp"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\GROUP.jpg",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\GROUP.jpg",
       "PackagePath": "staticwebassets\\images\\GROUP.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\GYM.jpg",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\GYM.jpg",
       "PackagePath": "staticwebassets\\images\\GYM.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\GYMM.png",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\GYMM.png",
       "PackagePath": "staticwebassets\\images\\GYMM.png"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\IMG.png",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\IMG.png",
       "PackagePath": "staticwebassets\\images\\IMG.png"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\IMG.webp",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\IMG.webp",
       "PackagePath": "staticwebassets\\images\\IMG.webp"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\Womens+only+studio.png",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\Womens+only+studio.png",
       "PackagePath": "staticwebassets\\images\\Womens+only+studio.png"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\app-store.png",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\app-store.png",
       "PackagePath": "staticwebassets\\images\\app-store.png"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\bg-masthead.jpg",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\bg-masthead.jpg",
       "PackagePath": "staticwebassets\\images\\bg-masthead.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\bg-masthead.png",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\bg-masthead.png",
       "PackagePath": "staticwebassets\\images\\bg-masthead.png"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\box+jump.jpg",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\box+jump.jpg",
       "PackagePath": "staticwebassets\\images\\box+jump.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\buy-1.jpg",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\buy-1.jpg",
       "PackagePath": "staticwebassets\\images\\buy-1.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\buy-2.jpg",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\buy-2.jpg",
       "PackagePath": "staticwebassets\\images\\buy-2.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\buy-3.jpg",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\buy-3.jpg",
       "PackagePath": "staticwebassets\\images\\buy-3.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\cart.png",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\cart.png",
       "PackagePath": "staticwebassets\\images\\cart.png"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\category-1.png",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\category-1.png",
       "PackagePath": "staticwebassets\\images\\category-1.png"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\category-2.jpg",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\category-2.jpg",
       "PackagePath": "staticwebassets\\images\\category-2.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\category-3.jpg",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\category-3.jpg",
       "PackagePath": "staticwebassets\\images\\category-3.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\counters-bg.jpg",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\counters-bg.jpg",
       "PackagePath": "staticwebassets\\images\\counters-bg.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\equipment.jpg",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\equipment.jpg",
       "PackagePath": "staticwebassets\\images\\equipment.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\exclusive.png",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\exclusive.png",
       "PackagePath": "staticwebassets\\images\\exclusive.png"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\f1233128692.png",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\f1233128692.png",
       "PackagePath": "staticwebassets\\images\\f1233128692.png"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\f2234347591.png",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\f2234347591.png",
       "PackagePath": "staticwebassets\\images\\f2234347591.png"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\f2235103080.png",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\f2235103080.png",
       "PackagePath": "staticwebassets\\images\\f2235103080.png"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\f3233246020.png",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\f3233246020.png",
       "PackagePath": "staticwebassets\\images\\f3233246020.png"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\f4231344235.png",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\f4231344235.png",
       "PackagePath": "staticwebassets\\images\\f4231344235.png"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\f5233408370.png",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\f5233408370.png",
       "PackagePath": "staticwebassets\\images\\f5233408370.png"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\favicon.png",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\favicon.png",
       "PackagePath": "staticwebassets\\images\\favicon.png"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\fb.png",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\fb.png",
       "PackagePath": "staticwebassets\\images\\fb.png"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\gallery-1.jpg",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\gallery-1.jpg",
       "PackagePath": "staticwebassets\\images\\gallery-1.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\gallery-2.jpg",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\gallery-2.jpg",
       "PackagePath": "staticwebassets\\images\\gallery-2.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\gallery-3.jpg",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\gallery-3.jpg",
       "PackagePath": "staticwebassets\\images\\gallery-3.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\gallery-4.jpg",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\gallery-4.jpg",
       "PackagePath": "staticwebassets\\images\\gallery-4.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\gp.png",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\gp.png",
       "PackagePath": "staticwebassets\\images\\gp.png"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\hero-bg.jpg",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\hero-bg.jpg",
       "PackagePath": "staticwebassets\\images\\hero-bg.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\i.png",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\i.png",
       "PackagePath": "staticwebassets\\images\\i.png"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\image1.png",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\image1.png",
       "PackagePath": "staticwebassets\\images\\image1.png"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\image2.png",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\image2.png",
       "PackagePath": "staticwebassets\\images\\image2.png"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\img-credit.txt",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\img-credit.txt",
       "PackagePath": "staticwebassets\\images\\img-credit.txt"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\jump+rope.jpg",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\jump+rope.jpg",
       "PackagePath": "staticwebassets\\images\\jump+rope.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\logo-coca-cola.png",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\logo-coca-cola.png",
       "PackagePath": "staticwebassets\\images\\logo-coca-cola.png"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\logo-godrej.png",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\logo-godrej.png",
       "PackagePath": "staticwebassets\\images\\logo-godrej.png"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\logo-oppo.png",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\logo-oppo.png",
       "PackagePath": "staticwebassets\\images\\logo-oppo.png"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\logo-paypal.png",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\logo-paypal.png",
       "PackagePath": "staticwebassets\\images\\logo-paypal.png"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\logo-philips.png",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\logo-philips.png",
       "PackagePath": "staticwebassets\\images\\logo-philips.png"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\logo-white.png",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\logo-white.png",
       "PackagePath": "staticwebassets\\images\\logo-white.png"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\logo.png",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\logo.png",
       "PackagePath": "staticwebassets\\images\\logo.png"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\logo1.png",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\logo1.png",
       "PackagePath": "staticwebassets\\images\\logo1.png"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\logo2.png",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\logo2.png",
       "PackagePath": "staticwebassets\\images\\logo2.png"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\logos.png",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\logos.png",
       "PackagePath": "staticwebassets\\images\\logos.png"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\menu.png",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\menu.png",
       "PackagePath": "staticwebassets\\images\\menu.png"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\menu1.png",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\menu1.png",
       "PackagePath": "staticwebassets\\images\\menu1.png"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\overlay-bg.jpg",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\overlay-bg.jpg",
       "PackagePath": "staticwebassets\\images\\overlay-bg.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\overlayy.jpg",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\overlayy.jpg",
       "PackagePath": "staticwebassets\\images\\overlayy.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\p.png",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\p.png",
       "PackagePath": "staticwebassets\\images\\p.png"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\personal+training.jpg",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\personal+training.jpg",
       "PackagePath": "staticwebassets\\images\\personal+training.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\play-store.png",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\play-store.png",
       "PackagePath": "staticwebassets\\images\\play-store.png"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\portfolio-details-1.jpg",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\portfolio-details-1.jpg",
       "PackagePath": "staticwebassets\\images\\portfolio-details-1.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\portfolio-details-2.jpg",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\portfolio-details-2.jpg",
       "PackagePath": "staticwebassets\\images\\portfolio-details-2.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\portfolio-details-3.jpg",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\portfolio-details-3.jpg",
       "PackagePath": "staticwebassets\\images\\portfolio-details-3.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\post-1.jpg",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\post-1.jpg",
       "PackagePath": "staticwebassets\\images\\post-1.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\post-2.jpg",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\post-2.jpg",
       "PackagePath": "staticwebassets\\images\\post-2.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\post-3.jpg",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\post-3.jpg",
       "PackagePath": "staticwebassets\\images\\post-3.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\product-1.webp",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\product-1.webp",
       "PackagePath": "staticwebassets\\images\\product-1.webp"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\product-10.jpg",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\product-10.jpg",
       "PackagePath": "staticwebassets\\images\\product-10.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\product-11.jpg",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\product-11.jpg",
       "PackagePath": "staticwebassets\\images\\product-11.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\product-12.webp",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\product-12.webp",
       "PackagePath": "staticwebassets\\images\\product-12.webp"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\product-2.webp",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\product-2.webp",
       "PackagePath": "staticwebassets\\images\\product-2.webp"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\product-3.webp",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\product-3.webp",
       "PackagePath": "staticwebassets\\images\\product-3.webp"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\product-4.jpg",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\product-4.jpg",
       "PackagePath": "staticwebassets\\images\\product-4.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\product-5.webp",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\product-5.webp",
       "PackagePath": "staticwebassets\\images\\product-5.webp"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\product-6.jpg",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\product-6.jpg",
       "PackagePath": "staticwebassets\\images\\product-6.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\product-7.jpg",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\product-7.jpg",
       "PackagePath": "staticwebassets\\images\\product-7.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\product-8.jpg",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\product-8.jpg",
       "PackagePath": "staticwebassets\\images\\product-8.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\product-9.webp",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\product-9.webp",
       "PackagePath": "staticwebassets\\images\\product-9.webp"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\sled+push.jpg",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\sled+push.jpg",
       "PackagePath": "staticwebassets\\images\\sled+push.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\testimonial-2.jpg",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\testimonial-2.jpg",
       "PackagePath": "staticwebassets\\images\\testimonial-2.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\testimonial-4.jpg",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\testimonial-4.jpg",
       "PackagePath": "staticwebassets\\images\\testimonial-4.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\tw.png",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\tw.png",
       "PackagePath": "staticwebassets\\images\\tw.png"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\user-1.png",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\user-1.png",
       "PackagePath": "staticwebassets\\images\\user-1.png"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\user-2.png",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\user-2.png",
       "PackagePath": "staticwebassets\\images\\user-2.png"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\user-3.png",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\user-3.png",
       "PackagePath": "staticwebassets\\images\\user-3.png"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\work-1.png",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\work-1.png",
       "PackagePath": "staticwebassets\\images\\work-1.png"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\work-2.jpg",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\work-2.jpg",
       "PackagePath": "staticwebassets\\images\\work-2.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\work-3.jpg",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\work-3.jpg",
       "PackagePath": "staticwebassets\\images\\work-3.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\work-4.jpg",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\work-4.jpg",
       "PackagePath": "staticwebassets\\images\\work-4.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\work-5.jpg",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\work-5.jpg",
       "PackagePath": "staticwebassets\\images\\work-5.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\work-6.jpg",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\work-6.jpg",
       "PackagePath": "staticwebassets\\images\\work-6.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\yoga.jpg",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\yoga.jpg",
       "PackagePath": "staticwebassets\\images\\yoga.jpg"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\images\\zumba+girl+beaconsfield+west+island.png",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\images\\zumba+girl+beaconsfield+west+island.png",
       "PackagePath": "staticwebassets\\images\\zumba+girl+beaconsfield+west+island.png"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\jss\\main.js",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\jss\\main.js",
       "PackagePath": "staticwebassets\\jss\\main.js"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "C:\\Users\\Black Hammer\\Desktop\\Folder-ProjectG\\Project\\wwwroot\\script.js",
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\animate-css\\animate.css",
+      "PackagePath": "staticwebassets\\plugins\\animate-css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\fontawesome\\css\\all.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome\\css\\all.css"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\fontawesome\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\fontawesome\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\fontawesome\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\fontawesome\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\fontawesome\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\fontawesome\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\fontawesome\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\fontawesome\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\fontawesome\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\fontawesome\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\fontawesome\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\fontawesome\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\fontawesome\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\fontawesome\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\fontawesome\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\google-map\\gmap.js",
+      "PackagePath": "staticwebassets\\plugins\\google-map\\gmap.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\icofont\\fonts\\icofont.eot",
+      "PackagePath": "staticwebassets\\plugins\\icofont\\fonts\\icofont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\icofont\\fonts\\icofont.svg",
+      "PackagePath": "staticwebassets\\plugins\\icofont\\fonts\\icofont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\icofont\\fonts\\icofont.ttf",
+      "PackagePath": "staticwebassets\\plugins\\icofont\\fonts\\icofont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\icofont\\fonts\\icofont.woff",
+      "PackagePath": "staticwebassets\\plugins\\icofont\\fonts\\icofont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\icofont\\fonts\\icofont.woff2",
+      "PackagePath": "staticwebassets\\plugins\\icofont\\fonts\\icofont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\icofont\\icofont.css",
+      "PackagePath": "staticwebassets\\plugins\\icofont\\icofont.css"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\icofont\\icofont.min.css",
+      "PackagePath": "staticwebassets\\plugins\\icofont\\icofont.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\external\\sizzle\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\external\\sizzle\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\ajax.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\ajax.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\ajax\\jsonp.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\ajax\\jsonp.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\ajax\\load.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\ajax\\load.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\ajax\\parseXML.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\ajax\\parseXML.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\ajax\\script.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\ajax\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\ajax\\var\\location.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\ajax\\var\\location.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\ajax\\var\\nonce.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\ajax\\var\\nonce.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\ajax\\var\\rquery.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\ajax\\var\\rquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\ajax\\xhr.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\ajax\\xhr.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\attributes.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\attributes.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\attributes\\attr.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\attributes\\attr.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\attributes\\classes.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\attributes\\classes.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\attributes\\prop.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\attributes\\prop.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\attributes\\support.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\attributes\\support.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\attributes\\val.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\attributes\\val.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\callbacks.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\callbacks.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\core.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\core.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\core\\DOMEval.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\core\\DOMEval.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\core\\access.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\core\\access.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\core\\init.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\core\\init.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\core\\nodeName.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\core\\nodeName.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\core\\parseHTML.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\core\\parseHTML.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\core\\ready-no-deferred.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\core\\ready-no-deferred.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\core\\ready.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\core\\ready.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\core\\readyException.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\core\\readyException.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\core\\stripAndCollapse.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\core\\stripAndCollapse.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\core\\support.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\core\\support.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\core\\var\\rsingleTag.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\core\\var\\rsingleTag.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\css.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\css.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\css\\addGetHookIf.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\css\\addGetHookIf.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\css\\adjustCSS.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\css\\adjustCSS.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\css\\curCSS.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\css\\curCSS.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\css\\hiddenVisibleSelectors.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\css\\hiddenVisibleSelectors.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\css\\showHide.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\css\\showHide.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\css\\support.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\css\\support.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\css\\var\\cssExpand.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\css\\var\\cssExpand.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\css\\var\\getStyles.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\css\\var\\getStyles.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\css\\var\\isHiddenWithinTree.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\css\\var\\isHiddenWithinTree.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\css\\var\\rmargin.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\css\\var\\rmargin.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\css\\var\\rnumnonpx.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\css\\var\\rnumnonpx.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\css\\var\\swap.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\css\\var\\swap.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\data.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\data.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\data\\Data.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\data\\Data.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\data\\var\\acceptData.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\data\\var\\acceptData.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\data\\var\\dataPriv.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\data\\var\\dataPriv.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\data\\var\\dataUser.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\data\\var\\dataUser.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\deferred.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\deferred.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\deferred\\exceptionHook.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\deferred\\exceptionHook.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\deprecated.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\deprecated.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\dimensions.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\dimensions.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\effects.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\effects.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\effects\\Tween.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\effects\\Tween.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\effects\\animatedSelector.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\effects\\animatedSelector.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\event.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\event.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\event\\ajax.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\event\\ajax.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\event\\alias.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\event\\alias.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\event\\focusin.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\event\\focusin.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\event\\support.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\event\\support.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\event\\trigger.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\event\\trigger.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\exports\\amd.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\exports\\amd.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\exports\\global.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\exports\\global.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\jquery.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\manipulation.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\manipulation.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\manipulation\\_evalUrl.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\manipulation\\_evalUrl.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\manipulation\\buildFragment.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\manipulation\\buildFragment.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\manipulation\\getAll.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\manipulation\\getAll.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\manipulation\\setGlobalEval.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\manipulation\\setGlobalEval.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\manipulation\\support.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\manipulation\\support.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\manipulation\\var\\rcheckableType.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\manipulation\\var\\rcheckableType.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\manipulation\\var\\rscriptType.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\manipulation\\var\\rscriptType.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\manipulation\\var\\rtagName.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\manipulation\\var\\rtagName.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\manipulation\\wrapMap.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\manipulation\\wrapMap.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\offset.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\offset.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\queue.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\queue.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\queue\\delay.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\queue\\delay.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\selector-native.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\selector-native.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\selector-sizzle.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\selector-sizzle.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\selector.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\selector.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\serialize.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\serialize.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\traversing.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\traversing.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\traversing\\findFilter.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\traversing\\findFilter.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\traversing\\var\\dir.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\traversing\\var\\dir.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\traversing\\var\\rneedsContext.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\traversing\\var\\rneedsContext.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\traversing\\var\\siblings.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\traversing\\var\\siblings.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\var\\ObjectFunctionString.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\var\\ObjectFunctionString.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\var\\arr.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\var\\arr.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\var\\class2type.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\var\\class2type.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\var\\concat.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\var\\concat.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\var\\document.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\var\\document.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\var\\documentElement.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\var\\documentElement.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\var\\fnToString.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\var\\fnToString.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\var\\getProto.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\var\\getProto.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\var\\hasOwn.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\var\\hasOwn.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\var\\indexOf.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\var\\indexOf.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\var\\pnum.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\var\\pnum.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\var\\push.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\var\\push.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\var\\rcssNum.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\var\\rcssNum.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\var\\rnothtmlwhite.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\var\\rnothtmlwhite.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\var\\slice.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\var\\slice.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\var\\support.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\var\\support.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\var\\toString.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\var\\toString.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\jquery\\src\\wrap.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\src\\wrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\magnific-popup\\dist\\jquery.magnific-popup.js",
+      "PackagePath": "staticwebassets\\plugins\\magnific-popup\\dist\\jquery.magnific-popup.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\magnific-popup\\dist\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\plugins\\magnific-popup\\dist\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\magnific-popup\\dist\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\plugins\\magnific-popup\\dist\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\slick-carousel\\slick\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\plugins\\slick-carousel\\slick\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\slick-carousel\\slick\\config.rb",
+      "PackagePath": "staticwebassets\\plugins\\slick-carousel\\slick\\config.rb"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\slick-carousel\\slick\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\plugins\\slick-carousel\\slick\\fonts\\slick.eot"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\slick-carousel\\slick\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\plugins\\slick-carousel\\slick\\fonts\\slick.svg"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\slick-carousel\\slick\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\plugins\\slick-carousel\\slick\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\slick-carousel\\slick\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\plugins\\slick-carousel\\slick\\fonts\\slick.woff"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\slick-carousel\\slick\\slick-theme.css",
+      "PackagePath": "staticwebassets\\plugins\\slick-carousel\\slick\\slick-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\slick-carousel\\slick\\slick-theme.less",
+      "PackagePath": "staticwebassets\\plugins\\slick-carousel\\slick\\slick-theme.less"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\slick-carousel\\slick\\slick-theme.scss",
+      "PackagePath": "staticwebassets\\plugins\\slick-carousel\\slick\\slick-theme.scss"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\slick-carousel\\slick\\slick.css",
+      "PackagePath": "staticwebassets\\plugins\\slick-carousel\\slick\\slick.css"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\slick-carousel\\slick\\slick.js",
+      "PackagePath": "staticwebassets\\plugins\\slick-carousel\\slick\\slick.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\slick-carousel\\slick\\slick.less",
+      "PackagePath": "staticwebassets\\plugins\\slick-carousel\\slick\\slick.less"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\slick-carousel\\slick\\slick.min.js",
+      "PackagePath": "staticwebassets\\plugins\\slick-carousel\\slick\\slick.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\slick-carousel\\slick\\slick.scss",
+      "PackagePath": "staticwebassets\\plugins\\slick-carousel\\slick\\slick.scss"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\themify\\css\\themify-icons.css",
+      "PackagePath": "staticwebassets\\plugins\\themify\\css\\themify-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\themify\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\plugins\\themify\\fonts\\themify.eot"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\themify\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\plugins\\themify\\fonts\\themify.svg"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\themify\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\plugins\\themify\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\plugins\\themify\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\plugins\\themify\\fonts\\themify.woff"
+    },
+    {
+      "Id": "C:\\Users\\Black Hammer\\Desktop\\Project\\Folder-ProjectG\\Project\\wwwroot\\script.js",
       "PackagePath": "staticwebassets\\script.js"
     },
     {
