@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\newar\\OneDrive\\Desktop\\Folder-Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB82167C-980D-47F1-A26E-846341C8BA34}|Project\\Project.csproj|c:\\users\\newar\\onedrive\\desktop\\folder-project\\project\\views\\home\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB82167C-980D-47F1-A26E-846341C8BA34}|Project\\Project.csproj|solutionrelative:project\\views\\home\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB82167C-980D-47F1-A26E-846341C8BA34}|Project\\Project.csproj|c:\\users\\newar\\onedrive\\desktop\\folder-project\\project\\views\\home\\blog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB82167C-980D-47F1-A26E-846341C8BA34}|Project\\Project.csproj|solutionrelative:project\\views\\home\\blog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB82167C-980D-47F1-A26E-846341C8BA34}|Project\\Project.csproj|c:\\users\\newar\\onedrive\\desktop\\folder-project\\project\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB82167C-980D-47F1-A26E-846341C8BA34}|Project\\Project.csproj|solutionrelative:project\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB82167C-980D-47F1-A26E-846341C8BA34}|Project\\Project.csproj|c:\\users\\newar\\onedrive\\desktop\\folder-project\\project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB82167C-980D-47F1-A26E-846341C8BA34}|Project\\Project.csproj|solutionrelative:project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\newar\\OneDrive\\Desktop\\Folder-Project\\Project\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Project\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\newar\\OneDrive\\Desktop\\Folder-Project\\Project\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Project\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAKsAAAAAAAAAAAAAAMwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-27T06:55:47.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Blog.cshtml",
+              "DocumentMoniker": "C:\\Users\\newar\\OneDrive\\Desktop\\Folder-Project\\Project\\Views\\Home\\Blog.cshtml",
+              "RelativeDocumentMoniker": "Project\\Views\\Home\\Blog.cshtml",
+              "ToolTip": "C:\\Users\\newar\\OneDrive\\Desktop\\Folder-Project\\Project\\Views\\Home\\Blog.cshtml",
+              "RelativeToolTip": "Project\\Views\\Home\\Blog.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAHEBAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-27T06:55:43.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContactUs.cshtml",
+              "DocumentMoniker": "C:\\Users\\newar\\OneDrive\\Desktop\\Folder-Project\\Project\\Views\\Home\\ContactUs.cshtml",
+              "RelativeDocumentMoniker": "Project\\Views\\Home\\ContactUs.cshtml",
+              "ToolTip": "C:\\Users\\newar\\OneDrive\\Desktop\\Folder-Project\\Project\\Views\\Home\\ContactUs.cshtml",
+              "RelativeToolTip": "Project\\Views\\Home\\ContactUs.cshtml",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAEgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-27T06:55:42.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\newar\\OneDrive\\Desktop\\Folder-Project\\Project\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Project\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\newar\\OneDrive\\Desktop\\Folder-Project\\Project\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Project\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAJ8AAAAAAAAAAAAAALAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-27T06:55:29.626Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

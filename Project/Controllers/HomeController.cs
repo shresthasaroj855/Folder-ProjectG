@@ -54,11 +54,10 @@ namespace Project.Controllers
             {
                 MailMessage mail = new MailMessage();
                 // you need to enter your mail address
-               // mail.From = new MailAddress("newarsaaroj@hotmail.com");
-                 mail.From = new MailAddress("shresthasaroj855@hotmail.com");
+                mail.From = new MailAddress("saroj2shresthaa@hotmail.com");
 
                 // To Email Address - you need to enter your to email address
-                mail.To.Add("saarojshresthaa@outlook.com");
+                mail.To.Add("shresthasaroj855@outlook.com");
 
                 mail.Subject = sendMailDto.Subject;
 
@@ -79,7 +78,7 @@ namespace Project.Controllers
                 SmtpClient smtpClient = new SmtpClient("smtp-mail.outlook.com");
 
                 // Create network credential and you need to give from email address and password
-                NetworkCredential networkCredential = new NetworkCredential("shresthasaroj855@hotmail.com", "9860474988@s");
+                NetworkCredential networkCredential = new NetworkCredential("saroj2shresthaa@hotmail.com", "9860474988@");
                 smtpClient.UseDefaultCredentials = false;
                 smtpClient.Credentials = networkCredential;
                 smtpClient.Port = 587; // Outlook uses port 587 for TLS
@@ -101,3 +100,4 @@ namespace Project.Controllers
         }
     }
 }
+
